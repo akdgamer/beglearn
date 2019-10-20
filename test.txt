@@ -3,6 +3,7 @@ purple
 pink
 blue
 ornage 
+INDIGO
 blue green
 thats it
 Red
